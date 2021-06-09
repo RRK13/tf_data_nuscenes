@@ -14,7 +14,7 @@
 4. pip install nuscenes-devkit # install nuscenes-devkit from "https://github.com/nutonomy/nuscenes-devkit"
 5. pip install tensorflow
 
-## nuScenes data-format
+## nuScenes data-format (relational database)
 https://www.nuscenes.org/nuscenes#data-format
 
 ## Running the program

@@ -14,6 +14,8 @@
 4. pip install nuscenes-devkit # install nuscenes-devkit from "https://github.com/nutonomy/nuscenes-devkit"
 5. pip install tensorflow
 
+## nuScenes data-format
+https://www.nuscenes.org/nuscenes#data-format
 
 ## Running the program
 1. Change the 'dataroot' to your v1.0-mini's root in the tf_dataset_loader.py
